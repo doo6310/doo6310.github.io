@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  <mark>c++</mark>, <mark>c#</mark>, <mark>javascript</mark>, <mark>python</mark>, <mark>java</mark>, <mark>nodejs</mark>, <mark>vue</mark> 등 다양한 언어및 플랫폼을 취급하고 있으며, 특정 언어가 주력이 아닌 목적에 필요한 언어를 언제든지 가져다 사용할 수 있는 것을 목표로 하고 있습니다.
+  목표한 방향으로 프로그램이 돌아가는것을 체크 하기 위해 디버깅 환경 구성하는 것을 중요하게 생각하고 있으며, 예외 상황이 생겼을때 재현하는 환경 등을 주로 만들어서 사용한 경험이 다수 있습니다.
+  빌드 자동화에도 관심을 갖고 <mark>docker</mark>, <mark>jenkins</mark>를  지속적으로 관찰 중 입니다.
 
 content:
   - title: Projects # Title for the section
