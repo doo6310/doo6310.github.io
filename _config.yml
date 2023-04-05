@@ -51,6 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>c++</mark>, <mark>c#</mark>, <mark>javascript</mark>, <mark>python</mark>, <mark>java</mark>, <mark>nodejs</mark>, <mark>vue</mark> 등 다양한 언어 및 플랫폼을 취급하고 있으며, 특정 언어가 주력이 아닌 목적에 필요한 언어를 언제든지 가져다 사용할 수 있는 것을 목표로 하고 있습니다.
   
   목표한 방향으로 프로그램이 돌아가는것을 체크 하기 위해 디버깅 환경 구성하는 것을 중요하게 생각하고 있으며, 예외 상황이 생겼을때 재현하는 환경 등을 주로 만들어서 사용한 경험이 다수 있습니다.
+  
   빌드 자동화에도 관심을 갖고 <mark>docker</mark>, <mark>jenkins</mark>를  지속적으로 관찰 중 입니다.
 
 content:
