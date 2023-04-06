@@ -59,13 +59,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: project
+        # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        # - title:  sproogen/modern-resume-theme
+        #   icon: fab fa-github
+        #   url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -73,6 +73,30 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Project # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 신분증 인식 프로그램
+        caption: 2020.2 - 2020.4
+        quote: >
+          신분증을 인식하여 신분증 내에 있는 텍스트들을 추출하여 OCR로 인식하는 프로그램
+        description: | 
+          주민등록증의 텍스트를 인식하기위해 Detection model들을 조사하여 어떤 모델이 적합한지 테스트 진행 (YOLO, EAST 등)
+          학습 데이터가 적어서 주민등록증이 틀어지거나 크기가 크면 인식이 되지 않음
+          
+          정확한 모델 비교를 위해 데이터를 수집해야 하는데, 다수의 주민등록증을 구하기에 어려움이 있어 generator를 개발하여 틀어진 각도나, 사이즈, 위치 등을 랜덤하게 하여 신분증 데이터를 생성하는 작업 진행
+          
+          학습한 모델을 안드로이드에서 사용가능하게 변환하여 카메라를 사용한 안드로이드 어플리케이션으로 제작
+    content:
+      - layout: left
+        title: test
+        caption: test
+        quote: >
+          test
+        description: | 
+          test
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
