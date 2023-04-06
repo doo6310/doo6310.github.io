@@ -90,7 +90,6 @@ content:
           
           학습한 모델을 안드로이드에서 사용가능하게 변환하여 카메라를 사용한 안드로이드 어플리케이션으로 제작
           
-    content:
       - layout: left
         title: test
         caption: test
