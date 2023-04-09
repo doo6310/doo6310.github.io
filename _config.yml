@@ -130,6 +130,36 @@ content:
           
           랩실의 장을 맡아서 전반적인 업무를 분석하고 구성원 개개인이 어떤 일을 잘하는지 파악하여 적재적소에 배치하는 역할을 하였습니다. 그러면서 자연스럽게 팀원간의 조율할 수 있는 능력과 이끌수 있는 리더십을 터득했습니다.
 
+  - title: Patent
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      로그 분석을 이용한 공격 탐지 장치 및 방법
+      - 등록번호: 1020226260000
+      - 등록일자: 2019.09.10
+      - 기술이전 진행
+
+      라이브 포렌식 기반 공격 탐지 장치 및 방법
+      - 등록번호: 1019976950000
+      - 등록일자: 2019.07.02
+
+  - title: Paper
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      journal
+      - Kim, D., Shin, D., Shin, D., & Kim, Y. H. (2019). Attack detection application with attack tree for mobile system using log analysis. Mobile Networks and Applications, 24, 184-192.
+      - Kim, D., Kim, Y. H., Shin, D., & Shin, D. (2019). Fast attack detection system using log analysis and attack tree generation. Cluster Computing, 22, 1827-1835.
+      - Park, J., Kim, D., Shin, D., & Shin, D. (2019). Design and implementation of simulation tool for cyber battle damage assessment using MOCE (measure of cyber effectiveness). Journal of the Korea Institute of Information Security & Cryptology, 29(2), 465-472.
+      
+      International Conference
+      - Kim, D., Kim, Y., Kim, D., Shin, D., & Shin, D. (2017). Attack Tree Generation and Real-Time Attack Detection System Using Log Analysis. In Proceedings of the Korea Information Processing Society Conference (pp. 207-210). Korea Information Processing Society.
+      - Kim, D., Kim, Y., Kim, D., Shin, D., & Shin, D. (2017). Cyber Battle damage assessment framework. In Proceedings of the Korea Information Processing Society Conference (pp. 178-181). Korea Information Processing Society.
+      - Kim, D., Kim, D., Shin, D., Shin, D., & Kim, Y. H. (2019). Cyber battle damage assessment framework and detection of unauthorized wireless access point using machine learning. In Frontier Computing: Theory, Technologies and Applications (FC 2018) 7 (pp. 510-519). Springer Singapore.
+      - Kim, D., Lee, D., Shin, D., & Shin, D. (2019). A Method of Finger Counting by Fingertips Recognition. The International Conference on Big data, IoT, and Cloud Computing (BIC-19)
+      - Kim, D., Shin, D., Shin, D., & Shin, D. (2019). Development of Real-time Human Depression Diagnosis System by Analyzing Brainwaves. The International Conference on Big data, IoT, and Cloud Computing (BIC-19)
+      - Kim, D., Kim, D., Shin, D., & Shin, D. (2019). Unauthorized AP Detection System Based on Machine Learning. The International Conference on Big data, IoT, and Cloud Computing (BIC-19)
+      
+      National Conference
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -141,6 +171,8 @@ content:
 
       Look at this cool image  
       ![Trees](/images/landscape-trees.jpg "Trees")
+     
+     
 
 # Footer
 footer_show_references: true
