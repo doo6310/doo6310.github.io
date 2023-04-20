@@ -55,6 +55,38 @@ about_content: | # this will include new lines to allow paragraphs
   빌드 자동화에도 관심을 갖고 <mark>docker</mark>, <mark>jenkins</mark>를  지속적으로 관찰 중입니다.
 
 content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Nuricon
+        link: nuricon.co.kr
+        # link_text: http://www.nuricon.co.kr/
+        sub_title: Developer
+        caption: November 2020 - Present
+        quote: >
+          뛰어난 기술력을 바탕으로 IP Wall Controller 시장의 점유율 1위를 고수하며, AI Vision 분야의 혁신적인 주차 시스템을 제공
+        description: | # this will include new lines to allow paragraphs
+            IP Wall은 모든 매체의 영상을 별도의 장비 없이 Network나, 영상케이블로 입력받아 다양한 형태의 Display에 실시간으로 표출 가능합니다.
+            
+            Smart Parking은 AI 기술을 이용해 주차장에 설치된 CCTV 영상을 분석하여 운전자에게 실시간으로 정보를 제공함으로써 주차장 이용 가능 여부 및 정확한 주차 위치정보를 제공하는 시스템입니다.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Sejong University Graduate School
+        caption: 2015 - 2019
+        sub_title: Computer Engineering
+        quote: >
+          다양한 연구 경험 및 리더십 향상
+        description: | 
+          대학원에서는 주로 ADD와 사이버전에 관한 기초 연구를 진행했습니다. 이외에도 하둡 에코시스템을 사용하여 보안로그를 수집 및 분석, 데이터 마이닝을 통한 사용자 행위 패턴 추출 및 예측, 로그 분석을 이용한 공격 탐지 어플리케이션 개발 등 다양한 방면으로 연구를 진행했습니다.
+          
+          특허로는 라이브 포렌식 기반 공격 탐지 장치 및 방법, 로그 분석을 이용한 공격 탐지 장치 및 방법 두 개를 가지고 있고, 로그 분석을 이용한 공격 탐지 장치 및 방법은 기술이전을 진행하였습니다.
+          
+          랩실의 장을 맡아서 전반적인 업무를 분석하고 구성원 개개인이 어떤 일을 잘하는지 파악하여 적재적소에 배치하는 역할을 하였습니다. 그러면서 자연스럽게 팀원간의 조율할 수 있는 능력과 이끌수 있는 리더십을 터득했습니다.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -167,39 +199,6 @@ content:
         description: | 
           여러 가지의 주차 시스템들이 나왔는데, 각자 별도로 개발되어 엔지니어가 설치나 유지보수를 하기 위해선 엄청난 양의 정보를 알고 있어야 했습니다. 이에 모든 시스템을 통합하고 하나의 프로그램으로 만드는 작업을 진행 중입니다.
           
-                    
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Nuricon
-        link: nuricon.co.kr
-        # link_text: http://www.nuricon.co.kr/
-        sub_title: Developer
-        caption: November 2020 - Present
-        quote: >
-          뛰어난 기술력을 바탕으로 IP Wall Controller 시장의 점유율 1위를 고수하며, AI Vision 분야의 혁신적인 주차 시스템을 제공
-        description: | # this will include new lines to allow paragraphs
-            IP Wall은 모든 매체의 영상을 별도의 장비 없이 Network나, 영상케이블로 입력받아 다양한 형태의 Display에 실시간으로 표출 가능합니다.
-            
-            Smart Parking은 AI 기술을 이용해 주차장에 설치된 CCTV 영상을 분석하여 운전자에게 실시간으로 정보를 제공함으로써 주차장 이용 가능 여부 및 정확한 주차 위치정보를 제공하는 시스템입니다.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Sejong University Graduate School
-        caption: 2015 - 2019
-        sub_title: Computer Engineering
-        quote: >
-          다양한 연구 경험 및 리더십 향상
-        description: | 
-          대학원에서는 주로 ADD와 사이버전에 관한 기초 연구를 진행했습니다. 이외에도 하둡 에코시스템을 사용하여 보안로그를 수집 및 분석, 데이터 마이닝을 통한 사용자 행위 패턴 추출 및 예측, 로그 분석을 이용한 공격 탐지 어플리케이션 개발 등 다양한 방면으로 연구를 진행했습니다.
-          
-          특허로는 라이브 포렌식 기반 공격 탐지 장치 및 방법, 로그 분석을 이용한 공격 탐지 장치 및 방법 두 개를 가지고 있고, 로그 분석을 이용한 공격 탐지 장치 및 방법은 기술이전을 진행하였습니다.
-          
-          랩실의 장을 맡아서 전반적인 업무를 분석하고 구성원 개개인이 어떤 일을 잘하는지 파악하여 적재적소에 배치하는 역할을 하였습니다. 그러면서 자연스럽게 팀원간의 조율할 수 있는 능력과 이끌수 있는 리더십을 터득했습니다.
-
   - title: Patent
     layout: text
     content: | # this will include new lines to allow paragraphs
